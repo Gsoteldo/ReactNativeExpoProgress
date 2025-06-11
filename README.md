@@ -52,7 +52,7 @@ Este repo:
    ```bash
    git clone https://github.com/Gsoteldo/ReactNativeExpoProgress
    cd ReactNativeExpoProgress
-```
+   ```
 
 
 2. Entra a la carpeta del mini proyecto que te interese:
