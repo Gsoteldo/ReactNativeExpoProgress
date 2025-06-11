@@ -39,6 +39,70 @@ Además, este proyecto sienta las bases para lo que viene después: navegación,
    ```bash
    npm install -g expo-cli
    ```
+2. Entra en esta carpeta:
+
+```bash
+cd ClickCounter
+```
+
+3. Instala las dependencias:
+
+```bash
+npm install
+```
+
+4. Ejecuta el proyecto: 
+
+```bash
+npx expo start
+```
+
+5. Escanea el QR con Expo Go y empieza a practicar esos clicks con estilo.
+
+
+
+
+---
+
+✨ Funcionalidades actuales
+
+✅ Sumar clicks
+
+✅ Restar clicks
+
+✅ Resetear el contador
+
+
+Sí, es una app que no solo sabe contar, también sabe perdonar y arrepentirse.
+
+
+---
+
+🔮 Posibles mejoras (por si te pica el gusanillo creativo)
+
+Persistencia con AsyncStorage para guardar el contador entre sesiones.
+
+Animaciones para cada acción (por si te quieres flipar un poco).
+
+Tema oscuro (porque programar a las 2am merece respeto).
+
+Contador negativo bloqueado (opcional si quieres mantener el optimismo).
+
+
+
+---
+
+📁 Este proyecto forma parte de...
+
+Una colección de mini proyectos Expo para entrenar tu músculo de desarrollador móvil sin caer en la desesperación.
+Mira el resto del repertorio en el repositorio principal.
+
+
+---
+
+👨‍💻 Autor
+
+Creado por TuNombre, porque hasta los grandes imperios empiezan con un humilde botón.
 
 
 
