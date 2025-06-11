@@ -64,13 +64,13 @@ npx expo start
 
 ---
 
-✨ Funcionalidades actuales
+# ✨ Funcionalidades actuales
 
-✅ Sumar clicks
+- ✅ Sumar clicks
 
-✅ Restar clicks
+- ✅ Restar clicks
 
-✅ Resetear el contador
+- ✅ Resetear el contador
 
 
 Sí, es una app que no solo sabe contar, también sabe perdonar y arrepentirse.
@@ -78,21 +78,21 @@ Sí, es una app que no solo sabe contar, también sabe perdonar y arrepentirse.
 
 ---
 
-🔮 Posibles mejoras (por si te pica el gusanillo creativo)
+# 🔮 Posibles mejoras (por si te pica el gusanillo creativo)
 
-Persistencia con AsyncStorage para guardar el contador entre sesiones.
+- Persistencia con AsyncStorage para guardar el contador entre sesiones.
 
-Animaciones para cada acción (por si te quieres flipar un poco).
+- Animaciones para cada acción (por si te quieres flipar un poco).
 
-Tema oscuro (porque programar a las 2am merece respeto).
+- Tema oscuro (porque programar a las 2am merece respeto).
 
-Contador negativo bloqueado (opcional si quieres mantener el optimismo).
+- Contador negativo bloqueado (opcional si quieres mantener el optimismo).
 
 
 
 ---
 
-📁 Este proyecto forma parte de...
+# 📁 Este proyecto forma parte de...
 
 Una colección de mini proyectos Expo para entrenar tu músculo de desarrollador móvil sin caer en la desesperación.
 Mira el resto del repertorio en el repositorio principal.
@@ -100,7 +100,7 @@ Mira el resto del repertorio en el repositorio principal.
 
 ---
 
-👨‍💻 Autor
+# 👨‍💻 Autor
 
 Creado por TuNombre, porque hasta los grandes imperios empiezan con un humilde botón.
 
