@@ -2,6 +2,17 @@ import { useState } from "react";
 import { Pressable, StyleSheet, Text, View } from "react-native";
 
 
+/**
+ * Componente principal de la app.
+ * 
+ * Este contador muestra un número en pantalla y permite:
+ * - Incrementar el contador
+ * - Disminuir el contador
+ * - Reiniciar el contador a cero
+ * 
+ * Ejemplo básico de uso de estado con useState y componentes personalizados en React Native con Expo.
+ */
+
 export default function Index() {
 	const [count, setCount] = useState(0);
 	return (
