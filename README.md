@@ -57,9 +57,9 @@ Este repo:
 
 2. Entra a la carpeta del mini proyecto que te interese:
 
-```bash
-cd 01-tocatoca
-```
+   ```bash
+   cd 01-tocatoca
+   ```
 
 
 3. Sigue las instrucciones del README específico de cada uno para instalar y lanzar la app.
@@ -122,3 +122,5 @@ Entonces no seas tímido:
 
 > "Divide y vencerás. También aplica para proyectos de desarrollo."
 – Julio César, probablemente, mientras usaba Expo Go
+
+---
