@@ -122,6 +122,6 @@ Entonces no seas tímido:
 
 > "Divide y vencerás. También aplica para proyectos de desarrollo."
 
-– Julio César, probablemente, mientras usaba Expo Go
+ > – Julio César, probablemente, mientras usaba Expo Go
 
 ---
