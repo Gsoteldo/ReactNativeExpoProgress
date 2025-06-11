@@ -1,4 +1,4 @@
-# 01 - TocaToca: El tridente sagrado del click
+# ClickCounter: El tridente sagrado del click
 
 Este mini proyecto es la puerta de entrada a tu carrera como desarrollador móvil con **React Native + Expo**.  
 Y sí, no solo cuenta clicks: **ahora puedes sumarlos, restarlos y resetearlos**. Es decir, el botón ya no está solo. Ahora tiene amigos. Y juntos forman el tridente sagrado del dedo inquieto.
