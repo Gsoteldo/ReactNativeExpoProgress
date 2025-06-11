@@ -102,4 +102,4 @@ Mira el resto del repertorio en el repositorio principal.
 
 ## 👨‍💻 Autor
 
-Creado por gsoteldo, porque hasta los grandes imperios empiezan con un humilde botón.
+Creado por [gsoteldo](https://github.com/Gsoteldo), porque hasta los grandes imperios empiezan con un humilde botón.
