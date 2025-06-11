@@ -51,12 +51,15 @@ Este repo:
 
    ```bash
    git clone https://github.com/Gsoteldo/ReactNativeExpoProgress
-   cd ReactNativeExpoProgress 
+   cd ReactNativeExpoProgress
+```
 
 
 2. Entra a la carpeta del mini proyecto que te interese:
 
+```bash
 cd 01-tocatoca
+```
 
 
 3. Sigue las instrucciones del README específico de cada uno para instalar y lanzar la app.
@@ -66,27 +69,27 @@ cd 01-tocatoca
 
 ---
 
-🧪 Próximos proyectos planeados
+##🧪 Próximos proyectos planeados
 
-✅ Contador de clicks
+- ✅ Contador de clicks
 
-🔲 ToDo App básica
+- 🔲 ToDo App básica
 
-🔲 Navegación entre pantallas
+- 🔲 Navegación entre pantallas
 
-🔲 Lista con FlatList y scroll infinito
+- 🔲 Lista con FlatList y scroll infinito
 
-🔲 Consumo de API REST
+- 🔲 Consumo de API REST
 
-🔲 Autenticación con Firebase
+- 🔲 Autenticación con Firebase
 
-🔲 Cámara y media
+- 🔲 Cámara y media
 
-🔲 Geolocalización
+- 🔲 Geolocalización
 
-🔲 Animaciones básicas
+- 🔲 Animaciones básicas
 
-🔲 App con almacenamiento persistente
+- 🔲 App con almacenamiento persistente
 
 
 Sí, la idea es terminar teniendo una armadura de Iron Man codificada a mano con Expo.
@@ -94,7 +97,7 @@ Sí, la idea es terminar teniendo una armadura de Iron Man codificada a mano con
 
 ---
 
-🙋‍♂️ ¿Quién soy?
+## 🙋‍♂️ ¿Quién soy?
 
 Un desarrollador en progreso, motivado, y un poco sarcástico que decidió documentar su proceso para no olvidar lo aprendido (y para que los recruiters vean que no solo hago scroll en LinkedIn).
 
@@ -103,7 +106,7 @@ GitHub: TuNombre
 
 ---
 
-🧙‍♂️ ¿Te sirve este repo?
+## 🧙‍♂️ ¿Te sirve este repo?
 
 Entonces no seas tímido:
 
