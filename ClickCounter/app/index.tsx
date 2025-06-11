@@ -30,6 +30,17 @@ export default function Index() {
   );
 }
 
+/**
+ * Botón personalizado reutilizable.
+ *
+ * Props:
+ * - title: Texto que se muestra dentro del botón
+ * - onPress: Función que se ejecuta al presionar
+ * - style: Estilo opcional para personalización externa
+ *
+ * Este componente se usa para sumar, restar y reiniciar el contador.
+ */
+
 interface FloatingButtonProps {
 	title: string;
 	onPress: () => void;
