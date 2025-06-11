@@ -1,4 +1,4 @@
-# 🚀 MiniProyectos Expo: De Novato a Ninja del Desarrollo Móvil
+# 🚀 React Native Expo Progress: De Novato a Ninja del Desarrollo Móvil
 
 Bienvenido/a a esta colección de mini proyectos construidos con **React Native + Expo**.  
 Este repositorio es mi gimnasio personal de código, donde entreno pulgares, neuronas y componentes.
@@ -14,7 +14,7 @@ Piensa en esto como un curso interactivo, pero con menos paja y más código út
 
 | Nº | Nombre            | Descripción breve                                 | Nivel     |
 |----|-------------------|----------------------------------------------------|-----------|
-| 01 | TocaToca          | Contador de clicks con sumar, restar y resetear. | 🟢 Básico |
+| 01 | ClickCounter       | Contador de clicks con sumar, restar y resetear. | 🟢 Básico |
 | 02 | (Próximo)         | Coming soon...                                     | 🔜        |
 | ...| ...               | ...                                                | ...       |
 
@@ -50,5 +50,5 @@ Este repo:
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tuusuario/miniproyectos-expo.git
-   cd miniproyectos-expo
+   git clone https://github.com/Gsoteldo/ReactNativeExpoProgress
+   cd ReactNativeExpoProgress
