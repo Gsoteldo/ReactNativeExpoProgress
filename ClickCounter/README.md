@@ -1,3 +1,48 @@
+# 01 - TocaToca: El tridente sagrado del click
+
+Este mini proyecto es la puerta de entrada a tu carrera como desarrollador móvil con **React Native + Expo**.  
+Y sí, no solo cuenta clicks: **ahora puedes sumarlos, restarlos y resetearlos**. Es decir, el botón ya no está solo. Ahora tiene amigos. Y juntos forman el tridente sagrado del dedo inquieto.
+
+---
+
+## 🎯 ¿De qué va esto?
+
+Una app minimalista (pero con carácter) que:
+
+- Cuenta cuántas veces pulsas un botón.
+- Te deja restar (porque la vida no siempre suma).
+- Y te permite resetear todo cuando las cosas se van al garete.
+
+Ideal como primer proyecto si estás aprendiendo:
+
+- `useState` en React Native
+- Eventos `onPress`
+- Componentes básicos de interfaz
+- Buenas prácticas iniciales con Expo
+
+---
+
+## 🧠 Cosas que aprenderás
+
+- Cómo manejar múltiples acciones sobre el mismo estado.
+- Cómo estructurar una interfaz simple pero efectiva.
+- Qué se siente al crear algo que *realmente* hace algo (aunque solo sea sumar).
+
+Además, este proyecto sienta las bases para lo que viene después: navegación, listas, y componentes más complejos.
+
+---
+
+## 🛠️ ¿Cómo lo ejecuto?
+
+1. Instala `expo-cli` si aún no lo hiciste:
+
+   ```bash
+   npm install -g expo-cli
+   ```
+
+
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
