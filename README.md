@@ -39,7 +39,7 @@ Este repo:
 
 - [Expo](https://expo.dev/)
 - [React Native](https://reactnative.dev/)
-- [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) (por ahora sin TypeScript, pero eso viene... cuando me anime)
+- [TypeScript](https://www.typescriptlang.org/)
 - [VS Code](https://code.visualstudio.com/)
 - Mucho café ☕ y algo de desesperación existencial
 
@@ -58,7 +58,7 @@ Este repo:
 2. Entra a la carpeta del mini proyecto que te interese:
 
    ```bash
-   cd 01-tocatoca
+   cd ClickCounter
    ```
 
 
@@ -101,7 +101,7 @@ Sí, la idea es terminar teniendo una armadura de Iron Man codificada a mano con
 
 Un desarrollador en progreso, motivado, y un poco sarcástico que decidió documentar su proceso para no olvidar lo aprendido (y para que los recruiters vean que no solo hago scroll en LinkedIn).
 
-GitHub: TuNombre
+GitHub: [Gsoteldo](https://github.com/Gsoteldo)
 
 
 ---
