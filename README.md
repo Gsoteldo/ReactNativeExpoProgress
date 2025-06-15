@@ -15,6 +15,7 @@ Piensa en esto como un curso interactivo, pero con menos paja y más código út
 | Nº | Nombre            | Descripción breve                                 | Nivel     |
 |----|-------------------|----------------------------------------------------|-----------|
 | 01 | ClickCounter       | Contador de clicks con sumar, restar y resetear. | 🟢 Básico |
+| 02 | FirstTodoList      | ToDo List con tareas, botones flotantes para marcar y eliminar. | 🟡 Básico/Intermedio |
 | 02 | (Próximo)         | Coming soon...                                     | 🔜        |
 | ...| ...               | ...                                                | ...       |
 
@@ -73,7 +74,7 @@ Este repo:
 
 - ✅ Contador de clicks
 
-- 🔲 ToDo App básica
+- ✅ ToDo App básica
 
 - 🔲 Navegación entre pantallas
 
