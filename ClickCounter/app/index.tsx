@@ -2,6 +2,17 @@ import { useState } from "react";
 import { Pressable, StyleSheet, Text, View } from "react-native";
 
 
+/**
+ * Componente principal de la app.
+ * 
+ * Este contador muestra un número en pantalla y permite:
+ * - Incrementar el contador
+ * - Disminuir el contador
+ * - Reiniciar el contador a cero
+ * 
+ * Ejemplo básico de uso de estado con useState y componentes personalizados en React Native con Expo.
+ */
+
 export default function Index() {
 	const [count, setCount] = useState(0);
 	return (
@@ -18,6 +29,17 @@ export default function Index() {
     </View>
   );
 }
+
+/**
+ * Botón personalizado reutilizable.
+ *
+ * Props:
+ * - title: Texto que se muestra dentro del botón
+ * - onPress: Función que se ejecuta al presionar
+ * - style: Estilo opcional para personalización externa
+ *
+ * Este componente se usa para sumar, restar y reiniciar el contador.
+ */
 
 interface FloatingButtonProps {
 	title: string;
